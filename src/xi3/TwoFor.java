@@ -120,5 +120,6 @@ public class TwoFor {
 			System.out.println();
 		}
 		System.out.println("打印完毕");
+		System.out.println("打印完毕");
 	}
 }
